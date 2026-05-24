@@ -1,7 +1,12 @@
+#Datos del estudiante
+#John Greeth Cano Vargas
+# CC 7184049
+#Grupo 213022_132
+#Ingenieria de Sistemas
+#Codigo fuente: autoría propia
 
-# SISTEMA DE AUDITORÍA Y REABASTECIMIENTO DE INVENTARIO CREADO POR  ARNOL DIMAS
-
-
+# SISTEMA DE AUDITORÍA Y REABASTECIMIENTO EN INVENTARIO
+# FASE FINAL  FUNDAMENTOS DE PROGRAMACION
 
 
 def mostrar_menu():
